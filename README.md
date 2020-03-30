@@ -6,7 +6,7 @@ git clone https://github.com/A-S-A-P/Medico.git
 git branch API
 
 ```
-## Front-end: Put in /templates folder
+![Screenshot2](https://user-images.githubusercontent.com/43414928/77904119-9a2a8380-72a1-11ea-83ca-18852ca697a6.png)
 
 
 ## Django Install Instructions
